@@ -1,0 +1,17 @@
+# Country API Explorer
+
+> An interactive world map. Click any country to see its capital, currency, languages, population, area, region, timezones, calling code and borders, alongside the live API request and response that produced the data. Free to use, no sign-up.
+
+## What it shows
+- Request headers, payload/body, and the response with HTTP status and timing for each country lookup
+- Country details: name, native name, capital, currencies, languages, population, area, density, region, timezones, calling code, domain, demonym, borders, flag
+
+## Data sources
+- Country data: countries.dev REST API (free, no API key)
+- Map shapes: world-atlas (Natural Earth), open source
+
+## Pages
+- / : the interactive map and FAQ
+
+## Made by
+- NinjaFunction (https://ninjafunction.com): free online developer tools and utilities, no sign-up
